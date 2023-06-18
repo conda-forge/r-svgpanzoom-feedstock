@@ -1,11 +1,11 @@
-About r-svgpanzoom
-==================
+About r-svgpanzoom-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-svgpanzoom-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/timelyportfolio/svgPanZoom
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-svgpanzoom-feedstock/blob/main/LICENSE.txt)
 
 Summary: This 'htmlwidget' provides pan and zoom interactivity to R graphics, including 'base', 'lattice', and 'ggplot2'. The interactivity is provided through the 'svg-pan-zoom.js' library. Various options to the widget can tailor the pan and zoom experience to nearly any user desire.
 
